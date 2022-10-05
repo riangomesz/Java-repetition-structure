@@ -1,5 +1,5 @@
-"Programa que recebe um número de habitantes de uma cidade e o salários desses habitantes, depois calcula a média salarial dos habitantes.
-"Também recebe o número de filhos da qtde de habitantes e realiza a média de filhos do habitantes
+"Programa que recebe um número de habitantes de uma cidade e o salários desses habitantes, depois calcula a média salarial da massa.
+"Também recebe o número de filhos da qtde de pessoas e realiza a média de filhos dos indivíduos.
 
 import java.util.Scanner;
 import java.text.DecimalFormat;
