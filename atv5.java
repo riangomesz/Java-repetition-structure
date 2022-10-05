@@ -1,3 +1,5 @@
+" Código que lê a temperatura informado pelo o usuário por 10 dias e depois calcula a média da temperatura em graus celsius  
+
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
