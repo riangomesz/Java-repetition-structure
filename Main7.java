@@ -1,3 +1,6 @@
+" Programa para pegar 5 notas informadas pelo o usuário e dizer a ele qual foi a maior e a menor nota
+
+
 import java.util.Scanner;
 
 public class Main
