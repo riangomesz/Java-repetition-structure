@@ -1,3 +1,5 @@
+"Programa que recebe a idade e o peso de 4 pessoas e informa o número de pessoas acima de 90kg e a média da idades
+
 import java.util.Scanner;
 
 public class Main
@@ -7,7 +9,7 @@ public class Main
 		int idade; double peso; int mediaIdade=0; int soma=0;
 		int cont1=0;
 		
-		for(int i=1; i<=7; i++){
+		for(int i=1; i<=4; i++){
 		    
 		    System.out.println("Informe sua idade: ");
 		    idade = sc.nextInt();
@@ -19,7 +21,7 @@ public class Main
 		    if(peso>90){
 		        cont1 = cont1 + 1;
 		    }
-		    mediaIdade = soma/7;
+		    mediaIdade = soma/4;
 		    
 		}
 		System.out.println("Total de pessoas acima de 90kg: "+cont1);
