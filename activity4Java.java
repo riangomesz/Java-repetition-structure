@@ -1,3 +1,6 @@
+"Programa que recebe 5 valores e informa ao usuário o dobro de cada valor informado
+
+
 import java.util.Scanner;
 
 public class Main
