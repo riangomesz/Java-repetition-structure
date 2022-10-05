@@ -1,6 +1,6 @@
 
-"Programa feito em Java que recebe o total de alunos que fizeram as provas, lê a matrícula deles e calcula a média dele." 
-"Informa também ao usuário se ele foi aprovado, se está no exame ou se reprovado."
+"Programa feito em Java que recebe o total de alunos que fizeram as provas, lê a matrícula deles e calcula a média de um estudante." 
+"Informa também ao usuário se ele foi aprovado, se está no exame ou se foi reprovado."
 
 
 import java.util.Scanner;
