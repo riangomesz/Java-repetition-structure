@@ -1,3 +1,7 @@
+" Código feito para armazenar o sexo da pessoa e o peso dela e depois informar ao o usuário o número de 
+" homens com peso de 60 até 80 e mulheres com o peso de 50 até 70  
+
+
 import java.util.Scanner;
 
 public class Main
